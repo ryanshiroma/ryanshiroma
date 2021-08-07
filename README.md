@@ -9,7 +9,7 @@ Most of my repos are collections of disjointed code that I work on in my spare t
 </a> and Chevy Bolt 🚙 data. 
 
 I'm currently interested/working on:
- - ConvNet Astros Trash Can Detector
+ - [ConvNet Astros Trash Can Detector](https://github.com/ryanshiroma/baseball-audio-ml)
    - modeling work is complete but code is not cleaned up. documentation is in progress.
  - [BoltStats API](https://github.com/ryanshiroma/boltstats)
    - REST API built on AWS to export and analyze my.chevrolet.com data for my Chevy Bolt EV 
