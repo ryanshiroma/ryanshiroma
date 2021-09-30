@@ -11,11 +11,12 @@ Most of my repos are collections of disjointed code that I work on in my spare t
 I'm currently interested/working on:
  - [ConvNet Astros Trash Can Detector](https://github.com/ryanshiroma/baseball-audio-ml)
    - modeling work is complete. Further analysis and documentation is in progress.
+ - [Stepper Motor Clock](https://github.com/ryanshiroma/stepper-motor-clock)
+   - shameless re-creation of this awesome clock idea https://hackaday.com/2021/08/11/a-whole-lot-of-stepper-motors-make-the-most-graceful-7-segment-displays/
  - [BoltStats API](https://github.com/ryanshiroma/boltstats)
    - REST API built on AWS to export and analyze my.chevrolet.com data for my Chevy Bolt EV 
  - [Strava-analyzer](https://github.com/ryanshiroma/strava-analyzer)
    -  building out additional functionality to analyze activity streams.
-
 
 
  - Rasberry Pi OBDII data collector
