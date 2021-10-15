@@ -13,8 +13,8 @@ I'm currently interested/working on:
    - modeling work is complete. Further analysis and documentation is in progress.
  - [Stepper Motor Clock](https://github.com/ryanshiroma/stepper-motor-clock)
    - shameless re-creation of this awesome clock idea https://hackaday.com/2021/08/11/a-whole-lot-of-stepper-motors-make-the-most-graceful-7-segment-displays/
- - [BoltStats API](https://github.com/ryanshiroma/boltstats)
-   - REST API built on AWS to export and analyze my.chevrolet.com data for my Chevy Bolt EV 
+ - [BoltStats](https://github.com/ryanshiroma/boltstats2)
+   - Code to export and analyze my.chevrolet.com data for my Chevy Bolt EV using AWS
  - [Strava-analyzer](https://github.com/ryanshiroma/strava-analyzer)
    -  building out additional functionality to analyze activity streams.
 
